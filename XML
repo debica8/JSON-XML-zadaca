@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Invoice>
+  <BrojRacuna>001</BrojRacuna>
+  <DatumIzdavanja>2021-11-12</DatumIzdavanja>
+  <VrijemeIzdavanja>20:23:00</VrijemeIzdavanja>
+  <Napomena>/</Napomena>
+  <RokZaPlacanje>2021-11-13</RokZaPlacanje>
+  <KodValute>EUR</KodValute>
+  <BrojStavki>1</BrojStavki>
+  <PeriodNaplate>
+    <PocetniDatum>2021-11-12</PocetniDatum>
+    <ZavrsniDatum>2021-11-13</ZavrsniDatum>
+  </PeriodNaplate>
+  <IzdavateljRacuna>
+    <OIB>98354728561</OIB>
+    <NazivTvrtke>Kopilot.d.o.o.</NazivTvrtke>
+    <Racunovodja>Deborah Gomerčić</Racunovodja>
+    <Adresa>Kušlanova 2/2</Adresa>
+    <Mjesto>Zagreb</Mjesto>
+  </IzdavateljRacuna>
+  <Kupac>
+    <OIB>04738129036</OIB>
+    <NazivTvrtke>GBC</NazivTvrtke>
+    <Adresa>Kralja Zvonimira 21</Adresa>
+    <Mjesto>Zagreb</Mjesto>
+  </Kupac>
+  <PodaciZaPlacanje>
+    <PozivNaBroj>/</PozivNaBroj>
+    <ModelPlacanja>HR00</ModelPlacanja>
+    <OpisPlacanja>Usluge gletanja</OpisPlacanja>
+    <IBAN>HR1230950450940590123</IBAN>
+    <IznosZaUplatu>9000,00</IznosZaUplatu>
+  </PodaciZaPlacanje>
+  <Stavka>
+    <SifraArtikla>64</SifraArtikla>
+    <Naziv>Gletanje</Naziv>
+    <Kolicina>1</Kolicina>
+    <JedinicnaCijena>9000,00</JedinicnaCijena>
+    <UkupnaCijenaBezPoreza>9000,00</UkupnaCijenaBezPoreza>
+    <PoreznaStopa>25%</PoreznaStopa>
+    <CijenaSPorezom>11250,00</CijenaSPorezom>
+  </Stavka>
+</Invoice>
