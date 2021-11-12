@@ -1,0 +1,43 @@
+{"Invoice" : {
+  "BrojRacuna" : "001",
+  "DatumIzdavanja" : "2021-11-12",
+  "VrijemeIzdavanja" : "20:23:00",
+  "Napomena" : "/",
+  "RokZaPlacanje" : "2021-11-13",
+  "KodValute" : "EUR",
+  "BrojStavki" : "1",
+  "PeriodNaplate" : {
+    "PocetniDatum" "2021-11-12",
+    "ZavrsniDatum" : "2021-11-13"
+  }
+  "IzdavateljRacuna" : {
+    "OIB" : "98354728561",
+    "NazivTvrtke" : "Kopilot.d.o.o.",
+    "Racunovodja" : "Deborah Gomerčić",
+    "Adresa" : "Kušlanova 2/2",
+    "Mjesto" : "Zagreb"
+  },
+  "Kupac" : {
+    "OIB" : "04738129036",
+    "NazivTvrtke" : "GBC",
+    "Adresa" : "Kralja Zvonimira 21",
+    "Mjesto" : "Zagreb"
+  },
+  "PodaciZaPlacanje" : {
+    "PozivNaBroj" : "/",
+    "ModelPlacanja" : "HR00",
+    "OpisPlacanja" : "Usluge gletanja",
+    "IBAN" : "HR1230950450940590123",
+    "IznosZaUplatu" : "9000,00"
+  },
+  "Stavka" : {
+    "SifraArtikla" : "64",
+    "Naziv" : "Gletanje",
+    "Kolicina" : "1",
+    "JedinicnaCijena" : "9000,00",
+    "UkupnaCijenaBezPoreza" : "9000,00",
+    "PoreznaStopa" : "25%",
+    "CijenaSPorezom" : "11250,00"
+  },
+}
+}
